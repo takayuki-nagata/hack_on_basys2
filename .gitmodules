@@ -1,0 +1,3 @@
+[submodule "hack_cpu"]
+	path = hack_cpu
+	url = https://github.com/takayuki-nagata/hack_cpu.git
